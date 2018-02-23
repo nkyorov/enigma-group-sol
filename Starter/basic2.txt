@@ -1,0 +1,5 @@
+Clue: '/www/htdocs/challenges/basics/pre/2/dontlookinhere/password.txt'
+Notice that the current web address is: http://challenges.enigmagroup.org/basics/pre/2/
+Add '/dontlookinhere' to the url and open the file
+
+Admin: rosebud101z
