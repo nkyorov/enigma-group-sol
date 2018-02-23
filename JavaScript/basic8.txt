@@ -1,0 +1,5 @@
+View page source and use http://ddecode.com/hexdecoder/ to decode var password on line 330.
+
+Pass: ASCII-Chart
+
+

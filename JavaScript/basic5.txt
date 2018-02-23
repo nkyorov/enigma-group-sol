@@ -1,0 +1,3 @@
+Press cancel and inspect code. Notice that password is reassigned.
+
+Password: skriptkid

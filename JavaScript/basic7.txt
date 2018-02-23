@@ -1,0 +1,9 @@
+View page source and observe line 324 
+<input type="button" value="Try Again" onClick="window.location='http://challenges.enigmagroup.org/basics/js/4/index.php'">
+Howerver we notice that we are redirected to http://challenges.enigmagroup.org/basics/js/4/Index.php (capitalised I)
+
+Lets change the capital letter to a lower case and inspect the page source.
+
+Notice that the password is on line 315.
+
+Pass: shifted
