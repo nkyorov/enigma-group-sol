@@ -1,0 +1,2 @@
+That's MD5 hash. Use https://hashkiller.co.uk/md5-decrypter.aspx to retrieve the password
+pass: md5easy

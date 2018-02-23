@@ -1,0 +1,4 @@
+Clue is: EbGguvEgrRavfNcvRprbsShpXvatCvFf – repeated letters (Caesar?)
+Notice a lot of repeated letters, pointing to Caesar's cypher. Use any decoder online and find the password(rot13)
+
+pass: ROTTHIRTEENISAPIECEOFFUCKINGPISS
